@@ -1,0 +1,13 @@
+Optimistic ACKing Attack Report
+==============================
+
+Target Traffic (Before Attack): 9.74 Mbps
+Target Traffic (During Attack): 0.76 Mbps
+Throughput Reduction: 92.22%
+
+Attacker Traffic (Before Attack): 0.00 Mbps
+Attacker Traffic (During Attack): 8.72 Mbps
+
+Total Traffic:
+  Before Attack: 9.74 Mbps
+  During Attack: 9.48 Mbps
